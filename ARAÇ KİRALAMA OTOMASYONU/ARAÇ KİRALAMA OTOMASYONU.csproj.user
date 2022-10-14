@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracKiralama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Araclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AraçEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AraçListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KayıtOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kiralamatakip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KullanıcıAnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirişSayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MüşteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MüşteriListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

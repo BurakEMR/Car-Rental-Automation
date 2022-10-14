@@ -1,0 +1,37 @@
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.exe
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.deps.json
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.runtimeconfig.json
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.runtimeconfig.dev.json
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\ref\ARAÇ KİRALAMA OTOMASYONU.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.pdb
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.AssemblyInfo.cs
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ref\ARAÇ KİRALAMA OTOMASYONU.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.pdb
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.genruntimeconfig.cache
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.GirişSayfası.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.KullanıcıAnaSayfa.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.AdminAnaSayfa.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.MüşteriEkle.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.MüşteriListesi.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.KayıtOl.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.AraçEkle.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.AraçListeleme.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ KİRALAMA OTOMASYONU.csproj.CopyComplete
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.AdminEkle.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.Araclar.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.AracKiralama.resources
+C:\Users\burak\source\repos\ARAÇ KİRALAMA OTOMASYONU\ARAÇ KİRALAMA OTOMASYONU\obj\Debug\net5.0-windows\ARAÇ_KİRALAMA_OTOMASYONU.kiralamatakip.resources
